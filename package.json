@@ -1,0 +1,29 @@
+{
+  "name": "image-info",
+  "version": "0.0.1",
+  "description": "get image info by nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhuangya/image-info.git"
+  },
+  "keywords": [
+    "image",
+    "exif",
+    "gps",
+    "jpg",
+    "png"
+  ],
+  "author": "Ya Zhuang <zhuangya@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhuangya/image-info/issues"
+  },
+  "homepage": "https://github.com/zhuangya/image-info#readme",
+  "devDependencies": {
+    "ava": "^0.14.0"
+  }
+}
