@@ -1,3 +1,3 @@
-#image-info
+#img-info
 
 just get image info
