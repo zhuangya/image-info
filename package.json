@@ -1,5 +1,5 @@
 {
-  "name": "image-info",
+  "name": "img-info",
   "version": "0.0.1",
   "description": "get image info by nodejs",
   "main": "index.js",
