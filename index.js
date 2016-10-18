@@ -33,7 +33,7 @@ module.exports = function (file, callback) {
     var canCheck = /^\.jpe?g$/.test(path.extname(file))
       var formattedExif = {
         latitude: 0,
-        longtitude: 0,
+        longitude: 0,
         orientation: 0
       }
     if (canCheck) {
