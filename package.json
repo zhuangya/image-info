@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/zhuangya/image-info#readme",
   "devDependencies": {
-    "ava": "^0.14.0"
+    "ava": "^0.16.0"
   },
   "dependencies": {
     "async": "^2.0.0-rc.3",
