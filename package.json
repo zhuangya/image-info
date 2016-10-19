@@ -1,6 +1,6 @@
 {
   "name": "img-info",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "get image info by nodejs",
   "main": "index.js",
   "scripts": {
